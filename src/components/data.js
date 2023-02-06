@@ -47,6 +47,12 @@ export const Benefits = [
     title: "amazing comfort",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.",
   },
+  {
+    id: 4,
+    icon: "fa-sharp fa-solid fa-binoculars",
+    title: "Best scene",
+    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.",
+  },
 ];
 
 export const tours = [
