@@ -80,7 +80,7 @@ export const tours = [
     id: 3,
     img: tour3,
     date: "september 15, 2023",
-    title: "Best of java",
+    title: "Hong kong night",
     info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
     location: "hong kong",
     duration: "8 Days",
